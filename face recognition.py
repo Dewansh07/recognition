@@ -1,6 +1,7 @@
 from tkinter import *
 from PIL import Image, ImageTk
 from tkinter import filedialog
+import numpy as np
 import object_detection as od 
 import imageio 
 import cv2  
